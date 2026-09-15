@@ -3,7 +3,7 @@
 A full-stack web application built for the Free API Niche Challenge.
 
 ## Live Link
-- **Hosted App:** [https://your-netlify-site-name.netlify.app](https://your-netlify-site-name.netlify.app)
+- **Hosted App:** [https://pokemonexplorerproject123.netlify.app/](https://pokemonexplorerproject123.netlify.app/)
 
 ## Features
 - **Data Fetching:** Consumes real-time data from [PokeAPI](https://pokeapi.co/).
