@@ -13,3 +13,4 @@ A full-stack web application built for the Free API Niche Challenge.
 ## Local Setup
 1. Clone repository: git clone https://github.com/Ethan9333/pokemon.git
 2. Open `index.html` in your browser (or use VS Code Live Server).
+Thank you!
